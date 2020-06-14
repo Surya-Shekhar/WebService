@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ReadDILRecords.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReadDILRecords_SalesDataService_SalesDetails" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://103.138.239.29:7047/DynamicsNAV71/WS/Devyani%20International%20Ltd(KFC)/Codeunit/SalesDetails</Value>
+    </Setting>
+    <Setting Name="ConString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server = localhost;Database=StagingDB;Trusted_Connection=True;User Id=ryk7686;Password=kfc@1234</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
